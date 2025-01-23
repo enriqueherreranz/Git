@@ -1,4 +1,4 @@
-# GIT
+# Aprendizaje de Git y GitHub
 ### Inicializar por primera vez
 
 Poner el nombre de usuario, luego el correo electrónico.
